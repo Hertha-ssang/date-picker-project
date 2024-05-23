@@ -177,6 +177,7 @@ body{
   width: 100vw;
   height: 100vh;
   background: #fefefe;
+  position: relative;
 }
 .my-calendar {
   width: 300px;
